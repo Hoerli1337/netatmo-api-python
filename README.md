@@ -1,5 +1,14 @@
 netatmo-api-python
 ==================
+1. Clone all files
+2. Add your API-Key and login to a fresh netatmo.credentials-File
+3. Run "show-stations.py" go get the ID of a station, if you want one special Station
+4. Put the Station-ID into the netatmo.credentials
+5. Run execute-code.py
+
+If you don't add the Station-ID, the script will take all Station or the first one.
+
+__________________________________________________________
 
 Simple API to access Netatmo weather station data from any python script
 For more detailed information see http://dev.netatmo.com
