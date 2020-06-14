@@ -1,11 +1,18 @@
 Python Netatmo API programmers guide
 ------------------------------------
 Get the complete Code.
+
 Use pip install lnetatmo to install the scripts.
+
 Create a file for your login-credentials.
+
 nano ~/.netatmo-credentials
+
 Use my example and enter you login-credentials.
+
 Run the Script with python3 execute-code.py
+
+
 
 Have fun!
 
